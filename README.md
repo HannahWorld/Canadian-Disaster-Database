@@ -7,3 +7,4 @@ Some of the questions answered by this report are as follows:
 1.	How often does a disaster occur and which area does it affect?
 2.	Are we having less disasters or more comparing to the history?
 3.	What are the top 5 disasters in a particular time period (a decade or more)?
+![CDD Image](
