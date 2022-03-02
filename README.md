@@ -1,5 +1,5 @@
 # Canadian-Disaster-Database
-Developed a Power BI report based on the CDD dataset.
+I developed a Power BI report based on the CDD dataset.
 ---
 The Canadian Disaster Database (CDD) contains detailed disaster information on more than 1,000 natural, technological and conflict events (excluding wars) that have happened since 1900 in Canada and that have directly affected Canadians.
 
